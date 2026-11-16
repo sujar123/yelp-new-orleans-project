@@ -1,0 +1,11 @@
+business_name,stars,review_count,reviewer_adjusted_score,final_score,tract_id,tract_name,latitude,longitude,categories
+3 Southern Girls,5,21,4.527233691648223,4.716340214988934,NA,NA,29.9592843,-90.1719775,"Restaurants, Soul Food, Seafood, Southern"
+Iacovone Kitchen,5,38,4.285796469193241,4.5714778815159445,22071011100,111,29.9350508,-90.1089541,"Salad, Fast Food, American (New), American (Traditional), Event Planning & Services, Sandwiches, Seafood, Restaurants, Tacos, Cafes, Caterers, Food, Desserts, Mexican"
+Bonafried,4.5,28,4.546779948177711,4.528067968906627,22071010700,107,29.9219677,-90.1073935,"Food Trucks, Southern, Caterers, Chicken Shop, Cajun/Creole, Restaurants, American (New), Event Planning & Services, Food, Street Vendors"
+The Neutral Ground Bar & Grill,5,18,4.183870824114875,4.510322494468925,22071013900,139,29.9418931775,-90.0749949524,"American (Traditional), Cajun/Creole, Nightlife, Cocktail Bars, Music Venues, Arts & Entertainment, Jazz & Blues, Bars, Restaurants, Lounges, Juice Bars & Smoothies, Food"
+Batture Bistro and Bar,5,23,4.181828516623639,4.509097109974183,22071013502,135.02,29.9519718,-90.064805,"Cocktail Bars, Nightlife, Bars, Breakfast & Brunch, Restaurants, American (New)"
+Nonno’s Cajun Cuisine and Pastries,5,24,4.180649364669159,4.508389618801495,22071002900,29,29.9736112,-90.0589405,"Restaurants, Cajun/Creole, Breakfast & Brunch, Ice Cream & Frozen Yogurt, Food, Bakeries, Desserts"
+Belle Epoque,5,32,4.172910719120726,4.503746431472436,22071013501,135.01,29.9554016242,-90.0684542,"French, Bars, Cocktail Bars, American (New), Restaurants, Nightlife, Lounges, Brasseries"
+Sorella5,5,49,4.140458750791649,4.484275250474989,22071013400,134,29.9484438,-90.0731985,"Salad, Cajun/Creole, Restaurants, Seafood"
+Rick's Grille,4.5,25,4.45386259316838,4.472317555901028,22071013400,134,29.9520367,-90.0703336,"Cheesesteaks, American (Traditional), Restaurants, Barbeque"
+Cafe Porche and snowbar,5,172,4.0853701154096465,4.451222069245787,22071013900,139,29.9393162215,-90.0789387705,"Food, Shaved Ice, Cajun/Creole, Breakfast & Brunch, Party & Event Planning, Comfort Food, Cafes, Restaurants, Event Planning & Services"
